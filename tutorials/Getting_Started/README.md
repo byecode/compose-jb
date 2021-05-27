@@ -1,11 +1,13 @@
-# Getting Started with Compose for Desktop
+# Compose 桌面版初步
 
-## What is covered
+## 涵盖范围
 
 In this tutorial we will create a simple desktop UI application
 using the Compose UI framework.
 
-## Prerequisites
+在这个教程中，我们会使用Compose UI 框架，创建一个简单的桌面应用。
+
+## Prerequisites 先觉条件
 
  Compose for Desktop can produce applications for macOS, Linux and Windows platforms,
 and so any of these platforms can be used for this tutorial.
